@@ -20,6 +20,7 @@
     "type": "git",
     "url": "git+https://github.com/dragermrb/capacitor-plugin-video-editor.git"
   },
+  "homepage": "https://github.com/dragermrb/capacitor-plugin-video-editor#readme",
   "name": "@whiteguru/capacitor-plugin-video-editor",
   "bugs": {
     "url": "https://github.com/dragermrb/capacitor-plugin-video-editor/issues"
